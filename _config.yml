@@ -1,4 +1,3 @@
-# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +6,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenye Bao (鲍晨烨)"
+title                    : "Chenye Bao"
 title_separator          : "-"
 subtitle                 : "Cognition X Memory"
 name                     : "Chenye Bao"
@@ -27,15 +26,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gaole Dai"
+  name             : "Chenye Bao (鲍晨烨)"
   avatar           : "images/avatar.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Missouri, MO"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
-  email            : "2201111765@stu.pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=GKfnEKwAAAAJ&hl=en&oi=ao"
+  email            : "cbao@missouri.edu"
+  researchgate     : "https://www.researchgate.net/profile/Chenye-Bao?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,13 +42,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddaiiiii"
+  github           : "Psycheyi"
   google_plus      :
   keybase          :
-  instagram        : "chunnidvd"
+  instagram        : # e.g., "chunnidvd"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # ""
+  linkedin         : "www.linkedin.com/in/chenyebao"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +56,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # ""
+  twitter          : "@ChenyeBao"
   vine             :
   weibo            :
   xing             :
