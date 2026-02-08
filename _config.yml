@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaole Dai (David)"
+title                    : "Chenye Bao (鲍晨烨)"
 title_separator          : "-"
-subtitle                 : "AI X Life Science"
-name                     : "Gaole Dai"
-description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
-url                      : "https://daviddaiiiii.github.io"
+subtitle                 : "Cognition X Memory"
+name                     : "Chenye Bao"
+description              : "Chenye Bao is a PhD student at University of Missouri, focusing on working memory, attention, and cognitive development."
+url                      : "https://Psycheyi.github.io"
 baseurl                  : ""
-repository               : "daviddaiiiii/daviddaiiiii.github.io"
+repository               : "Psycheyi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
