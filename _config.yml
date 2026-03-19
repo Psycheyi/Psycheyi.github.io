@@ -11,9 +11,9 @@ title_separator          : "-"
 subtitle                 : "Cognition X Memory"
 name                     : "Chenye Bao"
 description              : "Chenye Bao is a PhD student at University of Missouri, focusing on working memory, attention, and cognitive development."
-url                      : "https://Psycheyi.github.io"
+url                      : "https://ChenyeBao.github.io"
 baseurl                  : ""
-repository               : "Psycheyi.github.io"
+repository               : "ChenyeBao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
