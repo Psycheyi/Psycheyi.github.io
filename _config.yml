@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Chenye Bao"
 title_separator          : "-"
 subtitle                 : "Cognition"
-name                     : "Gaole Dai"
-description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
-url                      : "https://daviddaiiiii.github.io"
+name                     : "Chenye Ba0"
+description              : "Ph.D. Candidate in Cognition & Neuroscience"
+url                      : "https://Psycheyi.github.io"
 baseurl                  : ""
-repository               : "daviddaiiiii/daviddaiiiii.github.io"
+repository               : "Psycheyi/Psycheyi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,15 +27,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Gaole Dai"
+  name             : "Chenye Bao"
   avatar           : "images/avatar.png"
-  og_image         : "images/profile.png"
+  og_image         : # "images/profile.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Missouri, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
-  email            : "2201111765@stu.pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=GKfnEKwAAAAJ&hl=zh-CN"
+  email            : "cbao@missouri.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,13 +44,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddaiiiii"
+  github           : # "Psycheyi"
   google_plus      :
   keybase          :
-  instagram        : "chunnidvd"
+  instagram        : # "chunnidvd"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # ""
+  linkedin         : "www.linkedin.com/in/chenyebao"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
