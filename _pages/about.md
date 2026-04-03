@@ -21,13 +21,15 @@ header:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi! I am <span class="accent-text">Chenye Bao</span> (pronounced "chuh-nyeh bow"). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">University of Missouri #Mizzou </a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+
+
+Hi! I am <span class="accent-text">Chenye Bao</span> (pronounced "chuh-nyeh bow"), a PhD student at the <a href="https://psychology.missouri.edu" class="link-accent">Department of Psychological Science</a> in **University of Missouri**. I am working with Nelson Cowan<a href="https://scholar.google.com/citations?user=9KzHHVAAAAAJ&hl=en" class="link-accent">Nelson Cowan</a> in Working Memory Lab and Nicholas Gaspelin <a href="[https://idm.pku.edu.cn/info/1017/1040.htm](https://scholar.google.com/citations?user=jpewnsEAAAAJ&hl=en)" class="link-accent">Nicholas Gaspelin</a> at Attention and Distractor Lab.
 
 <div class="quote-accent">
-My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
+My research focuses on **Woriking Memory**, Attention, Vision Cognition, and Cognitive Development: 
   <ul>
-    <li>Using powerful <span class="primary-gradient-text">AI tools</span>⚙️ to solve complex scientific problems.</li>
-    <li>Using unique <span class="primary-gradient-text">scientific data</span>🦠 to explore irregular model dynamic</li>
+    <li>Using powerful <span class="primary-gradient-text">AI tools</span> to solve complex scientific problems.</li>
+    <li>Using unique <span class="primary-gradient-text">scientific data</span> to explore irregular model dynamic</li>
   </ul>
 </div>
 
